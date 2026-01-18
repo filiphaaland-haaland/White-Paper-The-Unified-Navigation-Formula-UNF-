@@ -26,10 +26,12 @@ UNF provides a common language for diverse scientific mysteries:
  * Thermodynamics: Defining life as a system that navigates entropy rather than merely succumbing to it.
 
 Methodology: Symbiotic Development
+
 This project represents a breakthrough in Symbiotic Science. The core axioms and architectural vision were conceived by human intuition (Filip Haaland) and subsequently hardened through a relentless dialectical process with advanced Artificial Intelligence. This ensure the logic is stress-tested against established physical laws while maintaining its visionary core.
 
 Documentation
  * UNF_White_Paper_v2.4.pdf: The full technical specification and scientific applications.
  * Methodology_Report.md: A detailed breakdown of the human-AI collaboration process.
+
 License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You are free to share and adapt this material, provided that appropriate credit is given to the original Architect and changes are redistributed under the same license.
