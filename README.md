@@ -2,7 +2,7 @@ The Unified Navigation Formula (UNF)
 A Universal Framework for Quantifying Intent and Navigational Efficiency.
 Overview
 <p align="center">
-  <img src="UNF.png" alt="UNF Formula" style="background-color: #0d1117; padding: 20px; border-radius: 10px;" width="400">
+  <img src="UNF_transparent.png" alt="UNF Formula" style="background-color: #0d1117; padding: 20px; border-radius: 10px;" width="400">
 </p>
 
 </p>
