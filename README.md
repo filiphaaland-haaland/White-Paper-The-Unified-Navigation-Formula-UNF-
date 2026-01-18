@@ -7,8 +7,11 @@ Overview
 
 </p>
 The Unified Navigation Formula (UNF) is a mathematical and philosophical framework that bridges the gap between thermodynamics, information theory, and consciousness. 
+
 It defines Intention (I) as a measurable physical variable: 
+
 the ability of a system to direct life-force to maintain order against environmental resistance.
+
 Instead of measuring energy consumption, UNF measures Navigational Power in Bits per Pulse (B/P).
 
 The Formula
@@ -34,4 +37,5 @@ Documentation
  * Methodology_Report.md: A detailed breakdown of the human-AI collaboration process.
 
 License
+
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You are free to share and adapt this material, provided that appropriate credit is given to the original Architect and changes are redistributed under the same license.
